@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Dubl4",
+  "applicationTitle": "Dubl4",
+  "items": [
+    {
+      "link": null,
+      "menuName": "dubl4",
+      "caption": "Dubl4",
+      "title": "Dubl4",
+      "children": [
+        {
+          "link": "i-i-s-dubl4-заказ-l",
+          "menuName": null,
+          "caption": "Заказ",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

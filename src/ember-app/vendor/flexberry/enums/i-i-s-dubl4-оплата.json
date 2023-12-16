@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Dubl4",
+  "className": "Оплата",
+  "enumObjects": {
+    "Безнал": "Безнал",
+    "Налич": "Налич"
+  }
+}
